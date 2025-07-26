@@ -3,6 +3,8 @@ Gabriel Sousa 👋
 
 Sou o Gabriel Sousa, Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e intuitivas. Tenho conhecimento em HTML, CSS, JavaScript e React, além de utilizar ferramentas como Git, Figma, VS Code e Prisma. Busco sempre aprender novas tecnologias e oferecer a melhor experiência ao usuário.
 
+---
+
 ### 🧰 Linguagens e Tecnologias
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -32,6 +34,7 @@ Sou o Gabriel Sousa, Desenvolvedor Front-End apaixonado por criar interfaces mod
 
 </div>
 
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsous4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
