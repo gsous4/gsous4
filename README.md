@@ -45,5 +45,5 @@ Me chamo Gabriel Sousa, sou Desenvolvedor Front-End apaixonado por criar interfa
 ---
 
 
-[![Gabriel sousa](https://github-readme-stats.vercel.app/api?username=gsous4)](https://github.com/anuraghazra/github-readme-stats)
+
 
