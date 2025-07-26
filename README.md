@@ -36,7 +36,7 @@ Sou o Gabriel Sousa, Desenvolvedor Front-End apaixonado por criar interfaces mod
 
 ---
 
-
+### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsous4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
@@ -46,7 +46,6 @@ Sou o Gabriel Sousa, Desenvolvedor Front-End apaixonado por criar interfaces mod
 
 ---
 
----
 
 
 
