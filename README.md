@@ -1,7 +1,8 @@
 Gabriel Sousa 👋
 
 
-Sou o Gabriel Sousa, Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e intuitivas. Tenho conhecimento em HTML, CSS, JavaScript e React, além de utilizar ferramentas como Git, Figma, VS Code e Prisma. Busco sempre aprender novas tecnologias e oferecer a melhor experiência ao usuário.
+Sou o Gabriel Sousa, Desenvolvedor Full-Stack
+apaixonado por criar interfaces modernas, responsivas e intuitivas. Tenho conhecimento em HTML, CSS, JavaScript e React, além de utilizar ferramentas como Git, Figma, VS Code e Prisma. Busco sempre aprender novas tecnologias e oferecer a melhor experiência ao usuário.
 
 ---
 
